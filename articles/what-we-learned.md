@@ -73,8 +73,7 @@ Overwriting the destination index can hide or lose that new state.
 
 ## What success looked like
 
-After migration, Antigravity IDE could see the old conversation history, and the
-local remote-sync service could be repointed from:
+After migration, Antigravity IDE could see the old conversation history from:
 
 ```text
 $HOME/.gemini/antigravity
@@ -87,5 +86,4 @@ $HOME/.gemini/antigravity-ide
 ```
 
 The result was one practical working state: Antigravity IDE became the primary
-local app, while existing history and remote viewing continued to work.
-
+local app, while existing history remained available.

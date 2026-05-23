@@ -12,7 +12,6 @@ This repository is documentation only. It is not an official Google project.
 
 - [Mac migration guide](articles/macos-migration-guide.md)
 - [What we learned](articles/what-we-learned.md)
-- [Remote sync service follow-up](articles/remote-sync-service-follow-up.md)
 
 ## Main idea
 
@@ -46,4 +45,3 @@ Before touching anything:
 
 Do not publish your real `state.vscdb`, `brain`, `conversations`, tokens,
 logs, screenshots, or private project paths.
-
